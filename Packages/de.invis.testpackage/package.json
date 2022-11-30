@@ -1,0 +1,13 @@
+{
+	"name": "de.invis.testpackage",
+	"displayName": "Invis Test Package",
+	"version": "1.0.0-preview",
+	"unity": "2020.3",
+	"license": "(C) 2022 inpro",
+	"author": "",
+	"description": "",
+	"keywords": [
+	],
+	"dependencies": {
+	}
+}
